@@ -48,11 +48,11 @@ The model is able to reach a validation accuracy of 98.3%, precision 0.65, recal
 ```
 @misc{Abhinav:2019,
   Author = {Abhinav Sagar},
-  Title = {Grocery Image Classification},
+  Title = {Breast-cancer-classification},
   Year = {2019},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/Grocery-Image-Classification}}
+  Howpublished = {\url{https://github.com/abhinavsagar/Breast-cancer-classification}}
 }
 ```
 
