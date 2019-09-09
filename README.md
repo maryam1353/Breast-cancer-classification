@@ -1,7 +1,7 @@
 # Breast-cancer-classification
 Benign vs Malignant classifier using convolutional neural networks
 
-Check out the corresponding medium blog post [https://medium.com/@abhinav.sagar/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9](https://medium.com/@abhinav.sagar/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9).
+Check out the corresponding medium blog post [https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9](https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9).
 
 ## Data
 
