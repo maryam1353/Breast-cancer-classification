@@ -5,7 +5,27 @@ Check out the corresponding medium blog post [https://towardsdatascience.com/con
 
 ## Data
 
-The dataset can be downloaded from [here](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/).
+The dataset can be downloaded from [here](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/). This is a binary classification problem. I split the data as shown-
+
+```
+dataset train
+  benign
+   b1.jpg
+   b2.jpg
+   //
+  malignant
+   m1.jpg
+   m2.jpg
+   //  validation
+   benign
+    b1.jpg
+    b2.jpg
+    //
+   malignant
+    m1.jpg
+    m2.jpg
+    //...
+```    
 
 ## Environment and tools
 
