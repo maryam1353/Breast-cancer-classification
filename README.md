@@ -43,6 +43,10 @@ dataset train
 
 `jupyter notebook`
 
+## Model
+
+![model](image6.png)
+
 ## Results
 
 ### Loss/Accuracy vs Epoch
@@ -62,6 +66,9 @@ dataset train
 ### Correct/Incorrect classification samples
 
 ![results](image5.png)
+
+
+![results](image7.png)
 
 The model is able to reach a validation accuracy of 98.3%, precision 0.65, recall 0.95, f1 score of 0.77 and ROC-AUC as 0.692.
 
